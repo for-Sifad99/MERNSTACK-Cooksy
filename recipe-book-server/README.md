@@ -70,8 +70,7 @@ ___
 
 💻 Setup Instructions
 1. Clone the repo:
-git clone https://github.com/Programming-Hero-Web-Course4/b11a10-server-side-for-Sifad99
-
+git clone https://github.com/for-Sifad99/cooksy-server
 2. Install dependencies:
 npm install
 
