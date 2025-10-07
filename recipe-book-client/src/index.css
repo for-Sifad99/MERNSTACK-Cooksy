@@ -1,0 +1,48 @@
+/* Poppins font Import  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* This is TailwindCss */
+@import 'tailwindcss';
+/* This is Daisy Ui */
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s, color 0.3s;
+  box-sizing: border-box;
+}
+
+/* Light Theme */
+:root {
+  --color-bg: #ffffff;
+  --color-section-bg: #f3f3f3;
+  --color-primary: #000;
+  --color-accent: #4a4a4a;
+  --color-base-200: #9e9b9b;
+  --color-secondary: #e92d28;
+  --color-secondary-light: #fff0f0;
+  --color-secondary-hover: #fecaca;
+  --color-btn-bg: #d1d5db;
+  --color-btn-text: #4a4a4a;
+}
+
+/* Dark Theme */
+.dark {
+  --color-bg: #1f2937;
+  --color-section-bg: rgb(24, 34, 46);
+  --color-primary: #e8eaee;
+  --color-accent: #d6d9df;
+  --color-base-200: #aca8a8;
+  --color-secondary: #f87171;
+  --color-secondary-light: #fff0f0;
+  --color-secondary-hover: #fecaca;
+  --color-btn-bg: #e0e1e2;
+  --color-btn-text: #f9fafb;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "682f45e81ff888db938ed9c6",
+    "title": "Seafood",
+    "image": "https://i.postimg.cc/Wb1YQMTL/recipe-2.jpg",
+    "cuisineType": "Italian",
+    "ingredients": ["Chicken", "Olive Oil", "Black Pepper"],
+    "instructions": "Prepare the Ingredients -> Make the Marinade -> Assemble the Skewers -> Grill",
+    "prepTime": 60,
+    "categories": ["Breakfast", "Vegan"],
+    "likes": 0,
+    "userEmail": "SophiaBennett@gmail.com"
+  },
+  {
+    "_id": "682f45e81ff888db938ed9c2",
+    "title": "Appetizers",
+    "image": "https://i.postimg.cc/VLNkZt47/recipe-6.jpg",
+    "cuisineType": "Mexican",
+    "ingredients": ["Flour", "Milk", "Eggs"],
+    "instructions": "Prepare the Ingredients -> Make the Marinade -> Assemble the Skewers -> Grill",
+    "prepTime": 95,
+    "categories": ["Vegan", "Dessert"],
+    "likes": 0,
+    "userEmail": "SophiaMitchell@gmail.com"
+  },
+  {
+    "_id": "682f45e81ff888db938ed9c3",
+    "title": "Meat",
+    "image": "https://i.postimg.cc/kgRpMKGV/recipe-7.jpg",
+    "cuisineType": "Indian",
+    "ingredients": ["Egg", "Chicken", "Olive Oil"],
+    "instructions": "Prepare the Ingredients -> Make the Marinade -> Assemble the Skewers -> Grill",
+    "prepTime": 15,
+    "categories": ["Lunch", "Dinner"],
+    "likes": 0,
+    "userEmail": "JamesHarrison@gmail.com"
+  },
+  {
+    "_id": "682f45e81ff888db938ed9c5",
+    "title": "Healthy",
+    "image": "https://i.postimg.cc/j216nbZP/recipe-8.jpg",
+    "cuisineType": "Italian",
+    "ingredients": ["Lemon", "Vegetables", "Potato"],
+    "instructions": "Prepare the Ingredients -> Make the Marinade -> Assemble the Skewers -> Grill",
+    "prepTime": 10,
+    "categories": ["Lunch"],
+    "likes": 0,
+    "userEmail": "SophiaBennett@gmail.com"
+  }
+]
